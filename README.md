@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on 100 Days of Code: Day 11/100<br>I’m learning Python, C and C++<br>I’m a licensed FPV Pilot and experienced in soldering<br>I’m studying Computer Science at FAU Erlangen Nuremberg<br>I have experience with Davinci Resolve<br>If you have any questions add me on Discord: Unduenn
+<br>I’m learning Python, C and C++<br>I’m a licensed FPV Pilot and experienced in soldering<br>I’m studying Computer Science at FAU Erlangen Nuremberg<br>I have experience with Davinci Resolve<br>If you have any questions add me on Discord: Unduenn
 
 
 ## 🌐 Socials:
